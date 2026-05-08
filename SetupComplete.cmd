@@ -1,6 +1,5 @@
 @echo off
 
-･･･
 echo ===== Panasonic Driver Install Start =====
 
 timeout /t 30
